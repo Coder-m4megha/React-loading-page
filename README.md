@@ -1,6 +1,7 @@
 # Modern Business Landing Page
 
 ![modern-business-landing-page](/src/assets/react-busines-landing-page.png)
+[live demo](https://react-loading-page.vercel.app/)
 
 A sleek and responsive landing page built with React, Tailwind CSS, and Framer Motion animations.
 
@@ -15,6 +16,9 @@ A sleek and responsive landing page built with React, Tailwind CSS, and Framer M
 - Company logo showcase
 - Pricing calculator
 - Service showcase sections
+- Footer with social media links
+- Deployed on Vercel
+
 
 ## 🛠️ Built With
 
@@ -34,7 +38,7 @@ A sleek and responsive landing page built with React, Tailwind CSS, and Framer M
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/mdalmamunit427/modern-business-landing-page-react-tailwindcss
+git clone https://github.com/your-username/modern-business-landing-page-react-tailwindcss
 
 cd modern-business-landing-page-react-tailwindcss
 ```
