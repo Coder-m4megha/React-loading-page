@@ -79,9 +79,9 @@ src/
 3. Modify the pricing plans in the `PricingSection.jsx` file
 4. Update the newsletter form in the `NewsletterSection.jsx` file
 
-## 📝 License
+## 📝 Author
+ `Megha Yadav`
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
